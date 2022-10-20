@@ -5,10 +5,9 @@
 <img  align="right" height="300" width="300"  src="https://user-images.githubusercontent.com/79945984/197029125-1527dcae-8daf-455c-aa48-c0e6484ba26c.gif"/>
 
 ### Sobre Mim
-<p align="left">Olá, meu nome é Kauã, seja muito bem vindo(a) ao meu perfil!.
-Tenho 19 anos, sou formado em Desenvolvimento de Sistemas pela Etec, atualmente estou estudando pela Fatec Professor Jessen Vidal SJC.
-Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e aprendizados, estou sempre aberto a novas experiências e desafios.
-No momento estou em busca de um estágio na área em que estudo.</p>
+<p align="left">Meu nome é Kauã, tenho 19 anos.<br/>
+Estou estudando na Fatec Professor Jessen Vidal SJC.<br/>
+Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e aprendizados, estou sempre aberto a novas experiências e desafios.<br/></p>
 <hr>
 
 ### Entre em contato
