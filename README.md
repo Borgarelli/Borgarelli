@@ -19,6 +19,6 @@
 <hr>
 
 ### Estátisticas Github
-<p>&nbsp;<img widht="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=borgarelli&show_icons=true&theme=dark&locale=en" alt="borgarelli" /></p>
-<p><img align="left" widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgarelli&show_icons=true&theme=dark&locale=en&layout=compact" alt="borgarelli" /></p>
+<p>&nbsp;<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=borgarelli&show_icons=true&theme=dark&locale=en" alt="borgarelli" /></p>
+<p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgarelli&show_icons=true&theme=dark&locale=en&layout=compact" alt="borgarelli" /></p>
 
