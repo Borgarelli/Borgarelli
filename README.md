@@ -12,7 +12,7 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 
 ### Entre em Contato
 <p align="left">
-<a href="https://linkedin.com/in/kauã borgarelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauã borgarelli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-borgarelli-5bb67220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauã borgarelli" height="30" width="40" /></a>
 <a href="https://instagram.com/borgarelli_tavares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borgarelli_tavares" height="30" width="40" /></a>
 </p>
 
