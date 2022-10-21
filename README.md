@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Kauã Borgarelli</h1>
+<h1 align="center">Olá 👋 Eu sou o Kauã Borgarelli</h1>
 <h4 align="center">Um aluno de banco de dados que gosta de frontend</h3>
 
 
@@ -21,11 +21,11 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"></p>
 
-### Projetos da faculdade
+### Projetos da Faculdade
 <p align="left">
-<a href="https://github.com/TheLooksDatabase/Julius" target="_blank"> <img width="90px" src="https://user-images.githubusercontent.com/79945984/197222019-221a4cdf-2153-48b9-9adc-7c6ac2d6f4c8.png"/>
-<a href="https://github.com/DolphinDatabase/SGBD_Health" target="_blank"> <img width="100px" src="https://user-images.githubusercontent.com/79945984/197222284-77384beb-7dc8-4ef3-bafe-fe26cc6b6193.png"/>
-<a href="https://github.com/DolphinDatabase/DescontOn" target="_blank"> <img width="100px" src="https://user-images.githubusercontent.com/79945984/197225485-8eb36177-3d8d-4950-ad88-5324447f6427.png"/>
+<a href="https://github.com/TheLooksDatabase/Julius" target="_blank"> <img width="70px" src="https://user-images.githubusercontent.com/79945984/197222019-221a4cdf-2153-48b9-9adc-7c6ac2d6f4c8.png"/>
+<a href="https://github.com/DolphinDatabase/SGBD_Health" target="_blank"> <img width="80px" src="https://user-images.githubusercontent.com/79945984/197222284-77384beb-7dc8-4ef3-bafe-fe26cc6b6193.png"/>
+<a href="https://github.com/DolphinDatabase/DescontOn" target="_blank"> <img width="80px" src="https://user-images.githubusercontent.com/79945984/197225485-8eb36177-3d8d-4950-ad88-5324447f6427.png"/>
 </p>
 <hr>
 
