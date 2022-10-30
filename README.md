@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou o Kauã Borgarelli</h1>
+<h1 align="center">Olá 👋 Eu sou Kauã Borgarelli</h1>
 <h4 align="center">Um aluno de banco de dados que gosta de frontend</h3>
 
 
@@ -31,8 +31,9 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 
 ### Estátisticas Github
 <br>
-<p>&nbsp;<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=borgarelli&show_icons=true&theme=tokyonight&locale=en" alt="borgarelli" /></p>
-<p><img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgarelli&show_icons=true&theme=tokyonight&text_color=00ffd2&locale=en&layout=compact" alt="borgarelli" /></p>
-
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=borgarelli&show_icons=true&theme=tokyonight&locale=en" alt="borgarelli" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgarelli&show_icons=true&theme=tokyonight&text_color=00ffd2&locale=en&layout=compact" alt="borgarelli" />
+</div>
 
 
