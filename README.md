@@ -39,3 +39,5 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 </div>
 
 
+  ![Snake animation](https://github.com/Borgarelli/Borgarelli/blob/output/github-contribution-grid-snake.svg)
+
