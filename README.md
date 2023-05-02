@@ -34,10 +34,9 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 ### Estátisticas Github
 <br>
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=borgarelli&show_icons=true&theme=tokyonight&locale=en" alt="borgarelli" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=borgarelli&show_icons=true&theme=tokyonight&text_color=00ffd2&locale=en&layout=compact" alt="borgarelli" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Borgarelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgarelli&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-
-  ![Snake animation](https://github.com/Borgarelli/Borgarelli/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Borgarelli/Borgarelli/blob/output/github-contribution-grid-snake.svg)
 
