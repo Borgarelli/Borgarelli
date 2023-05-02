@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou Kauã Borgarelli</h1>
+<h1 align="center">👋 Olá! Eu sou Kauã Borgarelli</h1>
 <h4 align="center">Um aluno de banco de dados que gosta de frontend</h3>
 
 
