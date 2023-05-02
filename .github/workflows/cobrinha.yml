@@ -17,7 +17,7 @@ jobs:
           github_user_name: Borgarelli
 
           outputs: |
-            https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#70a5fd&color_dots=#bf91f3,#38bdae,#1a1b27,#0a0047,#004687
+            https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?palette=tokyonight&color_snake=#70a5fd&color_dots=#bf91f3,#38bdae,#1a1b27,#0a0047,#004687
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
