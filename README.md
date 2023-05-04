@@ -8,34 +8,57 @@
 <p align="left">Meu nome é Kauã, tenho 19 anos.<br/>
 Estou estudando na Fatec Professor Jessen Vidal SJC.<br/>
 Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e aprendizados, estou sempre aberto a novas experiências e desafios.<br/></p>
-<hr>
+
+##
 
 ### Entre em Contato
 <p align="left">
-<a href="https://www.linkedin.com/in/kau%C3%A3-borgarelli-5bb67220a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauã borgarelli" height="30" width="40" /></a>
-<a href="https://instagram.com/borgarelli_tavares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borgarelli_tavares" height="30" width="40" /></a>
+ <a href = "mailto:borgak75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%3D294C?style=for-the-badge&logo=gmail&logoColor=white&color=E91E63" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-borgarelli-5bb67220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5075CA" target="_blank"></a> 
+</div>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+##
+
+<h3 align="left"> 💻 Linguagens e Ferramentas:</h3>
 <div aling ="left">
  <img align="center" alt="Borgarelli-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Borgarelli-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Borgarelli-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Borgarelli-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Borgarelli-Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Borgarelli-Java" height="55" width="55"src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67">
+ <img align="center" alt="Borgarelli-Java" height="40" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 
 
-### Projetos da Faculdade
-<p align="left">
-<a href="https://github.com/TheLooksDatabase/Julius" target="_blank"> <img width="70px" src="https://user-images.githubusercontent.com/79945984/197222019-221a4cdf-2153-48b9-9adc-7c6ac2d6f4c8.png"/>
-<a href="https://github.com/DolphinDatabase/SGBD_Health" target="_blank"> <img width="80px" src="https://user-images.githubusercontent.com/79945984/197222284-77384beb-7dc8-4ef3-bafe-fe26cc6b6193.png"/>
-<a href="https://github.com/DolphinDatabase/DescontOn" target="_blank"> <img width="80px" src="https://user-images.githubusercontent.com/79945984/197225485-8eb36177-3d8d-4950-ad88-5324447f6427.png"/>
-<a href="https://github.com/DolphinDatabase/MCS.git" target="_blank"> <img width="80px" src="https://user-images.githubusercontent.com/79945984/208273909-e3c9b553-2992-415e-b86f-1d8b4583e336.png"/>
+##
 
-</p>
+### 📂 Projetos da Faculdade 
+
+<div align="center">
+  <a href="https://github.com/TheLooksDatabase/Julius">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLooksDatabase&repo=Julius&theme=tokyonight" alt="API-1 Card">
+  </a>
+  <a href="https://github.com/Borgarelli/SGBD_Health">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgarelli&repo=SGBD_Health&theme=tokyonight" alt="API-2 Card">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Borgarelli/DescontOn" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgarelli&repo=DescontOn&theme=tokyonight" alt="API-3 Card">
+  </a>
+  <a href="https://github.com/Borgarelli/MCS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgarelli&repo=MCS&theme=tokyonight" alt="API-4 Card">
+  </a>
+ <a href="https://github.com/TechNinjass/midall-parent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-4 Card">
+  </a>
+</div>
+
+
+
 <hr>
 
 
