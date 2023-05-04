@@ -12,11 +12,10 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
 ##
 
 ### Entre em Contato
-<p align="left">
- <a href = "mailto:borgak75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%3D294C?style=for-the-badge&logo=gmail&logoColor=white&color=E91E63" target="_blank"></a>
+<div align = "left">
+  <a href = "mailto:borgak75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%3D294C?style=for-the-badge&logo=gmail&logoColor=white&color=E91E63" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-borgarelli-5bb67220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=5075CA" target="_blank"></a> 
 </div>
-</p>
 
 ##
 
