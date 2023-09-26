@@ -55,7 +55,7 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-5 Card">
   </a>
   <a href="https://github.com/TechVisionn/tech-parent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-6 Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechVisionn&repo=tech-parent&theme=tokyonight" alt="API-6 Card">
   </a>
 </div>
 
