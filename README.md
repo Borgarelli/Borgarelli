@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá! Eu sou Kauã Borgarelli</h1>
-<h4 align="center">Um aluno de banco de dados que gosta de frontend</h3>
+<h4 align="center">Aluno de Banco de Dados que gosta de frontend e estagiário na AS2 Group</h3>
 
 
 <img  align="right" height="250" width="300"  src="https://user-images.githubusercontent.com/79945984/197029125-1527dcae-8daf-455c-aa48-c0e6484ba26c.gif"/>
 
 ### Sobre Mim
-<p align="left">Meu nome é Kauã, tenho 19 anos.<br/>
+<p align="left">Meu nome é Kauã, tenho 20 anos.<br/>
 Estou estudando na Fatec Professor Jessen Vidal SJC.<br/>
 Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e aprendizados, estou sempre aberto a novas experiências e desafios.<br/></p>
 
@@ -52,7 +52,10 @@ Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e apren
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Borgarelli&repo=MCS&theme=tokyonight" alt="API-4 Card">
   </a>
  <a href="https://github.com/TechNinjass/midall-parent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-4 Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-5 Card">
+  </a>
+  <a href="https://github.com/TechVisionn/tech-parent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechNinjass&repo=midall-parent&theme=tokyonight" alt="API-6 Card">
   </a>
 </div>
 
