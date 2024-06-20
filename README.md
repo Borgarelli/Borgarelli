@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá! Eu sou Kauã Borgarelli</h1>
-<h4 align="center">Aluno de Banco de Dados que gosta de frontend e estagiário na AS2 Group</h3>
+<h4 align="center">Aluno de Banco de Dados que gosta de frontend e Desenvolvedor Back-End Jr na As2 group</h3>
 
 
 <img  align="right" height="250" width="300"  src="https://user-images.githubusercontent.com/79945984/197029125-1527dcae-8daf-455c-aa48-c0e6484ba26c.gif"/>
 
 ### Sobre Mim
-<p align="left">Meu nome é Kauã, tenho 20 anos.<br/>
+<p align="left">Meu nome é Kauã, tenho 21 anos.<br/>
 Estou estudando na Fatec Professor Jessen Vidal SJC.<br/>
 Adoro trabalhar em equipe e estou sempre em busca de novos conhecimentos e aprendizados, estou sempre aberto a novas experiências e desafios.<br/></p>
 
